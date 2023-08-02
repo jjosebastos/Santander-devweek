@@ -7,6 +7,5 @@ export interface AccountDataModel {
     card: {
         limit: number;
         number: string;
-        
     }
 }
